@@ -1,4 +1,4 @@
-# cupcollection
+# #cupcollection
 Project in Curation Data, Critical Data Studies Supplementary Course at Aarhus University
 
 **Welcome to this repository!** <br/>
