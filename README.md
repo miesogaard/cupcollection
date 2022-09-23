@@ -2,9 +2,11 @@
 Project in Curation Data, Critical Data Studies Supplementary Course at Aarhus University
 
 **Welcome to this repository of my Cup Collection!** <br/>
-This one is for displaying a collection of cups with pictures of each cup as well as a csv-fil containing data on the cups
+This one is for displaying a collection of cups with pictures of each cup as well as a csv-fil containing data on the cups. <br/>
 
 You can find and download the pictures in the "pictures" folder. <br/>
+
+---
 
 The dataset of the cup collection contains following variables: <rb/>
 
