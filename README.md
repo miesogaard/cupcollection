@@ -4,7 +4,9 @@ Project in Curation Data, Critical Data Studies Supplementary Course at Aarhus U
 **Welcome to this repository!** <br/>
 This one is for displaying a collectionof cups with pictures of each cup as well as a csv-fil containing data on the cups
 
-You can find the pictures in the "pictures" folder.
+You can find the pictures in the "pictures" folder. <br/>
+
+The dataset of the cup collection contains following variables: <rb/>
 
 - **ID** : A unique number for each cup <br/>
 - **height_cm** : The height of each cup (in centimeter) <br/>
