@@ -1,4 +1,4 @@
-### **Welcome to this repository of my Mup Collection!** <br/>
+### **Welcome to this repository of my Mug Collection!** <br/>
 This repository is for displaying a collection of mugs, including pictures of each mug as well as a csv-fil containing data on the mugs. <br/>
 
 This project is related to the Curation Data course, which is part of Critical Data Studies Supplementary Course at Aarhus University
