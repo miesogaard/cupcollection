@@ -1,3 +1,4 @@
+
 ### **Welcome to this repository of my Mug Collection!** <br/>
 This repository is for displaying a collection of mugs, including pictures of each mug as well as a csv-fil containing data on the mugs. <br/>
 
@@ -6,6 +7,7 @@ This project is related to the Curation Data course, which is part of Critical D
 
 You can find and download the pictures in the "pictures" folder. <br/>
 
+![mug-collage](https://github.com/miesogaard/mugcollection/blob/main/Pictures/mugs_collage.png)
 
 ## Variables
 
